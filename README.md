@@ -13,8 +13,7 @@
  
 <div> 
 
-  <a href="https://instagram.com/_landerson" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/landerson-miguel-1960191a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
   ![Snake animation](https://github.com/landerson98n/landerson98n/blob/output/github-contribution-grid-snake.svg)
  
 </div>
